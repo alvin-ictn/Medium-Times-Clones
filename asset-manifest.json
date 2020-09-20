@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Medium-Times-Clones/static/css/main.68ba0d78.chunk.css",
+    "main.js": "/Medium-Times-Clones/static/js/main.8f595c59.chunk.js",
+    "main.js.map": "/Medium-Times-Clones/static/js/main.8f595c59.chunk.js.map",
+    "runtime-main.js": "/Medium-Times-Clones/static/js/runtime-main.38a7da0f.js",
+    "runtime-main.js.map": "/Medium-Times-Clones/static/js/runtime-main.38a7da0f.js.map",
+    "static/js/2.c0bfb1f0.chunk.js": "/Medium-Times-Clones/static/js/2.c0bfb1f0.chunk.js",
+    "static/js/2.c0bfb1f0.chunk.js.map": "/Medium-Times-Clones/static/js/2.c0bfb1f0.chunk.js.map",
+    "index.html": "/Medium-Times-Clones/index.html",
+    "precache-manifest.f98cdbc1523a1c5059aa2b17c90adfdf.js": "/Medium-Times-Clones/precache-manifest.f98cdbc1523a1c5059aa2b17c90adfdf.js",
+    "service-worker.js": "/Medium-Times-Clones/service-worker.js",
+    "static/css/main.68ba0d78.chunk.css.map": "/Medium-Times-Clones/static/css/main.68ba0d78.chunk.css.map",
+    "static/js/2.c0bfb1f0.chunk.js.LICENSE.txt": "/Medium-Times-Clones/static/js/2.c0bfb1f0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Medium-Times-Clones/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a7da0f.js",
+    "static/js/2.c0bfb1f0.chunk.js",
+    "static/css/main.68ba0d78.chunk.css",
+    "static/js/main.8f595c59.chunk.js"
+  ]
+}
