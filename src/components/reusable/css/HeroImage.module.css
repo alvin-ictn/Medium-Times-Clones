@@ -1,0 +1,17 @@
+.imageComponent {
+  display: flex;
+  justify-content: flex-end;
+  height:max-content;
+  height: -webkit-max-content;
+}
+
+.imageComponent * {
+  width: 100%;
+}
+
+@media (min-width: 576px) { 
+  .imageComponent {
+    max-width:576px;
+    width: 60vw;
+  }
+}

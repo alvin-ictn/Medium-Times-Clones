@@ -1,0 +1,32 @@
+.news__col {
+  overflow-y: hidden;
+  padding-right: 15px;
+}
+
+label {
+  font-weight: 700;
+}
+
+label.headline {
+  font-size: 1.625rem;
+  line-height: 1.75rem;
+}
+
+label.title {
+  font-size: 1.25rem;
+  line-height: 1.4375rem;
+}
+
+p {
+  font-size: 0.875rem;
+  line-height: 1.1875rem;
+}
+
+@media (min-width: 576px) { 
+  
+}
+
+
+@media (min-width: 1024px) { 
+
+}
